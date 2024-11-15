@@ -2,11 +2,11 @@
 ### Master of Information and Data Science Program (MIDS)
 ### w205 - Fundamentals of Data Engineering
 
-* Year:
-* Semester:
-* Section:
-* Instructor:
+* Year: 2024
+* Semester: Fall
+* Section: 8
+* Instructor: Kevin Crook
 * Team Members:
-    * team member 1
-    * team member 2
-    * team member 3
+    * Deric Liang
+    * Allen Li 
+    * Godsee Joy
