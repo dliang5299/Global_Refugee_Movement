@@ -1,62 +1,64 @@
 country_full,country
 Afghanistan,AFG
+Bangladesh,BGD
 Iran (Islamic Rep. of),IRN
 Pakistan,PAK
 Tajikistan,TJK
+Türkiye,TUR
+Algeria,ALG
 Egypt,ARE
 China,CHI
 Dem. Rep. of the Congo,COD
 Palestinian,GAZ
 Iraq,IRQ
+Libya,LBY
+Morocco,MOR
 Serbia and Kosovo: S/RES/1244 (1999),SRB
 Syrian Arab Rep.,SYR
-Türkiye,TUR
 Uzbekistan,UZB
+Venezuela (Bolivarian Republic of),VEN
 Stateless,STA
+Benin,BEN
 Burkina Faso,BKF
 Central African Rep.,CAR
+Chad,CHD
 Cameroon,CMR
-Congo,COB
+Ghana,GHA
 Guinea,GUI
 Cote d'Ivoire,ICO
-Libya,LBY
+Liberia,LBR
 Lebanon,LEB
 Mali,MLI
+Niger,NGR
+Nigeria,NIG
+Sierra Leone,SLE
+Somalia,SOM
 Sudan,SUD
 Togo,TOG
 Western Sahara,WSH
 Yemen,YEM
 Burundi,BDI
-Chad,CHD
+Congo,COB
 Eritrea,ERT
 Ethiopia,ETH
 Guinea-Bissau,GNB
-Liberia,LBR
 Mauritania,MAU
 Rwanda,RWA
-Sierra Leone,SLE
-Somalia,SOM
 United Rep. of Tanzania,TAN
 Uganda,UGA
-Zambia,ZAM
-Azerbaijan,AZE
-Benin,BEN
-Bangladesh,BGD
 Djibouti,DJB
-Ghana,GHA
+Gambia,GAM
+India,IND
 Jordan,JOR
 Kenya,KEN
-Kyrgyzstan,KGZ
-Niger,NGR
-Nigeria,NIG
 Russian Federation,RUS
 Saudi Arabia,SAU
 South Sudan,SSD
 Turkmenistan,TKM
+Tunisia,TUN
 Zimbabwe,ZIM
 Unknown,UKN
 Albania,ALB
-Algeria,ALG
 Angola,ANG
 Armenia,ARM
 Bolivia (Plurinational State of),BOL
@@ -66,20 +68,24 @@ Chile,CHL
 Colombia,COL
 Costa Rica,COS
 Cuba,CUB
-Dominica,DMA
+Cabo Verde,CVI
+Czechia,CZE
 Dominican Rep.,DOM
 Ecuador,ECU
+France,FRA
 Georgia,GEO
-Germany,GFR
+Guatemala,GUA
 Haiti,HAI
 Honduras,HON
 Hungary,HUN
-India,IND
+Jamaica,JAM
 Kazakhstan,KAZ
+Kyrgyzstan,KGZ
 Sri Lanka,LKA
 North Macedonia,MCD
-Morocco,MOR
+Mexico,MEX
 Nepal,NEP
+Nicaragua,NIC
 Paraguay,PAR
 Peru,PER
 Romania,ROM
@@ -87,116 +93,111 @@ South Africa,RSA
 El Salvador,SAL
 Senegal,SEN
 Spain,SPA
+Viet Nam,SRV
 Ukraine,UKR
 United States of America,USA
-Venezuela (Bolivarian Republic of),VEN
-Andorra,AND
+Azerbaijan,AZE
 Argentina,ARG
+Austria,AUS
 Bahrain,BAH
-Bahamas,BHS
 Bhutan,BHU
 Belarus,BLR
-Botswana,BOT
-Brunei Darussalam,BRU
-Bulgaria,BUL
 Cambodia,CAM
 Canada,CAN
-Cyprus,CYP
-Czechia,CZE
-Estonia,EST
 Fiji,FIJ
-France,FRA
-Gabon,GAB
-Gambia,GAM
 United Kingdom of Great Britain and Northern Ireland,GBR
+Germany,GFR
 Greece,GRE
-Guatemala,GUA
 "China, Hong Kong SAR",HKG
 Croatia,HRV
 Indonesia,INS
 Ireland,IRE
 Israel,ISR
 Italy,ITA
-Jamaica,JAM
 Japan,JPN
 Rep. of Korea,KOR
 Dem. People's Rep. of Korea,KRN
 Kuwait,KUW
 Lao People's Dem. Rep.,LAO
 Latvia,LVA
-Madagascar,MAD
 Maldives,MDV
-Mexico,MEX
 Malaysia,MLS
+Malawi,MLW
 Mongolia,MNG
 Mozambique,MOZ
 Mauritius,MTS
 Myanmar,MYA
 Netherlands (Kingdom of the),NET
-Nicaragua,NIC
-Norway,NOR
 New Zealand,NZL
 Oman,OMN
 Philippines,PHI
 Papua New Guinea,PNG
 Poland,POL
-Qatar,QAT
+Portugal,POR
 Singapore,SIN
 Solomon Islands,SOL
-Viet Nam,SRV
+Eswatini,SWA
 Thailand,THA
 Timor-Leste,TMP
 Tonga,TON
-Tunisia,TUN
 United Arab Emirates,UAE
-Uruguay,URU
 Samoa,WES
+Zambia,ZAM
 Tibetan,TIB
+Gabon,GAB
+Madagascar,MAD
 Rep. of Moldova,MDA
 Montenegro,MNE
-Slovakia,SVK
-Eswatini,SWA
+Trinidad and Tobago,TRT
+Bulgaria,BUL
 Lithuania,LTU
-Suriname,SUR
 Namibia,NAM
+Suriname,SUR
+Slovakia,SVK
 Belgium,BEL
-Cabo Verde,CVI
+Denmark,DEN
+Dominica,DMA
+Equatorial Guinea,EGU
+French Guiana,FGU
 Guyana,GUY
 Lesotho,LES
+"China, Macao SAR",MAC
+Malta,MTA
+Norway,NOR
 Panama,PAN
-Portugal,POR
 Sao Tome and Principe,STP
+Sweden,SWE
+Uruguay,URU
+Vanuatu,VAN
 Antigua and Barbuda,ANT
-Australia,AUL
-Austria,AUS
 Barbados,BAR
+Bahamas,BHS
+Botswana,BOT
 Belize,BZE
-Equatorial Guinea,EGU
+Comoros,COI
+Cyprus,CYP
+Estonia,EST
 Finland,FIN
 Grenada,GRN
+Iceland,ICE
 Saint Lucia,LCA
-Malawi,MLW
+Luxembourg,LUX
+Qatar,QAT
 Seychelles,SEY
 Saint Kitts and Nevis,STK
 Slovenia,SVN
-Sweden,SWE
-Turks and Caicos Islands,TCI
-Trinidad and Tobago,TRT
 Saint Vincent and the Grenadines,VCT
-Comoros,COI
-Iceland,ICE
-"China, Macao SAR",MAC
+Australia,AUL
 Cayman Islands,CAY
-Denmark,DEN
 Monaco,MCO
 Marshall Islands,MHL
 Niue,NIU
 Switzerland,SWI
+Turks and Caicos Islands,TCI
+Guadeloupe,GLP
 Curacao,CUW
-Micronesia (Federated States of),FSM
+Brunei Darussalam,BRU
 Liechtenstein,LIE
-Luxembourg,LUX
-Malta,MTA
 Nauru,NRU
 Aruba,ABW
 Sint Maarten (Dutch part),SXM
